@@ -1,2 +1,2 @@
 # AppInstaller
-[Descargar AppInstaller](https://raw.githubusercontent.com/PaxNotFun/apppnstaller/refs/heads/main/AppInstaller.exe)
+[Descargar AppInstaller](https://raw.githubusercontent.com/PaxNotFun/appinstaller/refs/heads/main/AppInstaller.exe)
