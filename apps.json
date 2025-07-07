@@ -2,6 +2,16 @@
     {
         "name": "GestorGTA",
         "url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/refs/heads/main/GestorGTA.exe",
-        "last_version": "1.4.20"
+        "last_version": "1.4.18"
+    },
+    {
+        "name": "R. E. P. O. Saves Manager",
+        "url": "https://raw.githubusercontent.com/PaxNotFun/REPOSAVES/refs/heads/main/REPOSAVES.exe",
+        "last_version": "1.0.8"
+    },
+        {
+        "name": "R. E. P. O. Save Editor",
+        "url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/refs/heads/main/REPOEDITOR.exe",
+        "last_version": "1.0.2"
     }
 ]
