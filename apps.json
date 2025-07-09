@@ -1,5 +1,10 @@
 [
     {
+        "name": "AppInstaller",
+        "url": "https://raw.githubusercontent.com/PaxNotFun/appinstaller/refs/heads/main/AppInstaller.exe",
+        "version_url": ""
+    },
+    {
         "name": "GestorGTA",
         "url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/refs/heads/main/GestorGTA.exe",
         "version_url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/refs/heads/main/version.json"
