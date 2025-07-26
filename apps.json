@@ -1,22 +1,22 @@
 [
     {
         "name": "AppInstaller",
-        "url": "https://raw.githubusercontent.com/PaxNotFun/appinstaller/refs/heads/main/AppInstaller.exe",
+        "url": "https://raw.githubusercontent.com/PaxNotFun/appinstaller/main/AppInstaller.exe",
         "version_url": ""
     },
     {
         "name": "GestorGTA",
-        "url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/refs/heads/main/GestorGTA.exe",
-        "version_url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/refs/heads/main/version.json"
+        "url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/main/GestorGTA.exe",
+        "version_url": "https://raw.githubusercontent.com/PaxNotFun/gestorgta/main/version.json"
     },
     {
         "name": "R. E. P. O. Saves Manager",
-        "url": "https://raw.githubusercontent.com/PaxNotFun/reposaves/refs/heads/main/REPOSAVES.exe",
-        "version_url": "https://raw.githubusercontent.com/PaxNotFun/reposaves/refs/heads/main/version.json"
+        "url": "https://raw.githubusercontent.com/PaxNotFun/reposaves/main/REPOSAVES.exe",
+        "version_url": "https://raw.githubusercontent.com/PaxNotFun/reposaves/main/version.json"
     },
         {
         "name": "R. E. P. O. Save Editor",
-        "url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/refs/heads/main/REPOEDITOR.exe",
-        "version_url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/refs/heads/main/version.json"
+        "url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/main/REPOEDITOR.exe",
+        "version_url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/main/version.json"
     }
 ]
