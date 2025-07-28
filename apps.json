@@ -18,5 +18,10 @@
         "name": "R. E. P. O. Save Editor",
         "url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/main/REPOEDITOR.exe",
         "version_url": "https://raw.githubusercontent.com/PaxNotFun/repoeditor/main/version.json"
+    },
+    {
+        "name": "GestorMinecraft",
+        "url": "https://raw.githubusercontent.com/PaxNotFun/GestorMinecraft/master/GestorMinecraft.exe",
+        "version_url": "https://raw.githubusercontent.com/PaxNotFun/GestorMinecraft/master/version.json"
     }
 ]
